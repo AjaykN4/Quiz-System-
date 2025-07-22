@@ -50,6 +50,4 @@ This is a Qt-based Quiz System application that fetches quiz questions from onli
 - View quiz statistics and charts after completion.
 - Save and load custom quizzes as needed.
 
-## License
 
-This project is licensed under the MIT License.
