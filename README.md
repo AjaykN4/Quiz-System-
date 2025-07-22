@@ -5,7 +5,6 @@ This is a Qt-based Quiz System application that fetches quiz questions from onli
 ## Features
 
 - Fetches current affairs questions from NewsAPI.
-- Fetches programming questions from GeeksforGeeks API.
 - Supports local fallback questions if API requests fail.
 - Categorizes questions by difficulty: Easy, Medium, Hard.
 - Displays quiz statistics and charts.
