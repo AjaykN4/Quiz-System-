@@ -39,7 +39,7 @@ void ApiManager::fetchQuestions(int count)
 {
     // Fetch current affairs questions from a free API
     // Using NewsAPI for current affairs (free tier available)
-    QString apiKey = "demo"; // Replace with actual API key for production
+    QString apiKey = "e5ec4a33a17848cfb982dbf3f6e650db"; // Updated with provided API key
     QString url = QString("https://newsapi.org/v2/top-headlines?country=us&apiKey=%1&pageSize=%2")
                   .arg(apiKey)
                   .arg(count);
